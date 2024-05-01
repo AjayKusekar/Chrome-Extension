@@ -1,0 +1,40 @@
+body{
+    min-width: 300px;
+    background-color: #3057ca;
+    color: white;
+    border: none;
+}
+
+img{
+    height: 15%;
+    width: 20%;
+} 
+
+.center{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+    font-size: 15px;
+}
+li{
+    margin: 10px;
+}
+body::-webkit-scrollbar {
+    display: none;
+  }
+
+#scrapeEmails{
+    padding: 5px 5px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    /* background-color: rgb(145, 41, 62); */
+    background-color: #657fcd;
+    margin-top: 10px;
+
+}
